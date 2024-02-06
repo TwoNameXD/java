@@ -1,0 +1,1 @@
+INDEX VERSION 1.132+C:\гиеве╘\eclipse-java-2023-03-R-win32-x86_64\workspace java\Day01\.metadata\.plugins\org.eclipse.jdt.core
